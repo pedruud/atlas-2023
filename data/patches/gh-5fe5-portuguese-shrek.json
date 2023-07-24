@@ -1,0 +1,69 @@
+{
+	"id": 1844,
+	"name": "Portuguese Shrek",
+	"description": "This Shrek laying on a beach was a collaboration between the communities of portuguese streamer Wuant and german streamer Papaplatte after invading the UK flag.\n\nIt was then re-built by Papaplatte after an attack from Argentina because they wanted their flag to expand. This resulted on the flag being completely covered by this piece of art.\n\nThere are also more countries other than Portugal and Germany that have been immortalized on this masterpiece, like Spain, Austria and Switzerland.\n\nAfter re-building Shrek there was also the addition of Donkey from the same franchise.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/wuant",
+			"https://www.twitch.tv/papaplatte",
+			"https://en.wikipedia.org/wiki/Shrek"
+		],
+		"subreddit": [
+			"papaplatte",
+			"wuant"
+		],
+		"discord": [
+			"papaplatte",
+			"blueeyes",
+			"tugaplace"
+		]
+	},
+	"path": {
+		"142-167": [
+			[
+				447,
+				-797
+			],
+			[
+				447,
+				-676
+			],
+			[
+				849,
+				-676
+			],
+			[
+				849,
+				-797
+			]
+		],
+		"196-207": [
+			[
+				203,
+				-797
+			],
+			[
+				595,
+				-797
+			],
+			[
+				596,
+				-676
+			],
+			[
+				203,
+				-676
+			]
+		]
+	},
+	"center": {
+		"142-167": [
+			648,
+			-736
+		],
+		"196-207": [
+			400,
+			-736
+		]
+	}
+}
